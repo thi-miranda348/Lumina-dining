@@ -22,6 +22,12 @@ export default function ProductCard({ item }: { item: MenuItem }) {
                     loading="lazy"
                     className="w-full h-full object-cover" 
                 />
+
+                {item.category && (
+                    <span className="absolute top-3 left-3 bg-background/20 text-primary text-[10px] font-bold px-2 py-1 rounded-sm tracking-wider backdrop-blur-sm">
+                        {item.category}
+                    </span>
+                )}
             </div>
             
             {/* Card Content */}

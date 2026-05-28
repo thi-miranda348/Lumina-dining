@@ -43,7 +43,7 @@ export default function HomePage() {
                 <h3 className={`${index === 0 ? 'text-3xl' : 'text-xl'} font-bold mb-2`}>{item.name}</h3>
                 <p className="text-text-muted text-sm mb-6 line-clamp-2">{item.description}</p>
                 <div className={`flex mt-auto ${index === 0
-                    ? 'flex-row items-center justify-between gap-4'
+                    ? 'flex-row items-center justify-between lg:justify-start gap-4'
                     : 'flex-row items-center justify-between gap-4 lg:flex-col lg:items-start lg:gap-3'
                   }`}>
 
@@ -55,7 +55,7 @@ export default function HomePage() {
                   {/* The Button */}
                   <button className={`${index === 0
                       ? 'bg-primary text-background px-8'
-                      : 'border border-primary text-primary px-4 hover:bg-primary/10'
+                      : 'lg:w-full border border-primary text-primary px-4 hover:bg-primary/10'
                     } py-2.5 text-sm font-bold rounded-full transition-colors`}
                   >
                     {index === 0 ? 'Add to Cart' : 'Quick Add'}
@@ -69,7 +69,7 @@ export default function HomePage() {
       </section>
 
       <section className="pt-8 border-t border-surface text-center">
-        <h2 className="text-3xl font-bold tracking-tight mb-8 text-left">Popular Entrees</h2>
+        <h2 className="text-3xl font-bold tracking-tight mb-8 text-left">Popular</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12 text-left">
           {featuredEntrees.map(item => <ProductCard key={item.id} item={item} />)}
         </div>
