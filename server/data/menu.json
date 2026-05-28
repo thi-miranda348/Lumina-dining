@@ -5,7 +5,7 @@
     "description": "A double-aged Wagyu patty topped with house-made black truffle aioli, shaved black truffles, and caramelized onions on a toasted brioche bun.",
     "price": 24.00,
     "category": "Entrees",
-    "imageUrl": "/images/truffle-burger.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?q=80&w=1415&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "tag": "Featured"
   },
   {
@@ -14,7 +14,7 @@
     "description": "Wild-caught Atlantic salmon with a honey-miso glaze, served over charred broccolini.",
     "price": 28.00,
     "category": "Entrees",
-    "imageUrl": "/images/miso-salmon.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1759502832625-a6ce1d780dde?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "tag": "Healthy"
   },
   {
@@ -23,7 +23,7 @@
     "description": "Slow-cooked for 12 hours with a signature hickory spice rub and a sweet honey BBQ glaze.",
     "price": 32.00,
     "category": "Entrees",
-    "imageUrl": "/images/smoked-ribs.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1679711246825-1f2bd51b16d0?q=80&w=1371&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "tag": ""
   },
   {
@@ -32,7 +32,7 @@
     "description": "Hand-made penne tossed in fresh basil pesto, toasted pine nuts, and 24-month aged parmesan.",
     "price": 19.00,
     "category": "Entrees",
-    "imageUrl": "/images/pesto-penne.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1676300184847-4ee4030409c0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "tag": "Vegetarian"
   },
   {
@@ -41,7 +41,7 @@
     "description": "Triple-cooked and tossed in aged parmesan and white truffle oil.",
     "price": 8.00,
     "category": "Sides",
-    "imageUrl": "/images/parmesan-fries.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?q=80&w=1025&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "tag": "Popular"
   },
   {
@@ -50,7 +50,7 @@
     "description": "A refreshing, sparkling blend of premium Japanese matcha and cold-pressed yuzu juice.",
     "price": 6.50,
     "category": "Beverages",
-    "imageUrl": "/images/yuzu-matcha.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1651993737174-6890c1daef5b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "tag": ""
   },
   {
@@ -59,7 +59,115 @@
     "description": "Warm molten center crafted with 70% dark cacao, served alongside Madagascar vanilla bean gelato.",
     "price": 12.00,
     "category": "Desserts",
-    "imageUrl": "/images/lava-cake.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1669754712436-f7fe6c72e066?q=80&w=1537&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "tag": "Gluten-Free"
+  },
+  {
+    "id": 8,
+    "name": "Wagyu Steak Frites",
+    "description": "8oz Wagyu flat iron steak perfectly seared, served with garlic herb butter and crispy fries.",
+    "price": 45.00,
+    "category": "Entrees",
+    "imageUrl": "https://images.unsplash.com/photo-1600891964092-4316c288032e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tag": "Premium"
+  },
+  {
+    "id": 9,
+    "name": "Pan-Seared Scallops",
+    "description": "Jumbo sea scallops pan-seared in brown butter over a bed of sweet corn purée and microgreens.",
+    "price": 38.00,
+    "category": "Entrees",
+    "imageUrl": "https://images.unsplash.com/photo-1659275798472-86f479383ae6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tag": "Seafood"
+  },
+  {
+    "id": 10,
+    "name": "Truffle Mushroom Risotto",
+    "description": "Creamy arborio rice slow-cooked with wild mushrooms, white wine, and finished with truffle oil.",
+    "price": 26.00,
+    "category": "Entrees",
+    "imageUrl": "https://images.unsplash.com/photo-1692296979427-8dd6b7427cc5?q=80&w=1413&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tag": "Vegetarian"
+  },
+  {
+    "id": 11,
+    "name": "Charred Broccolini",
+    "description": "Wood-fired broccolini topped with chili flakes, lemon zest, and toasted almonds.",
+    "price": 10.00,
+    "category": "Sides",
+    "imageUrl": "https://images.unsplash.com/photo-1617007672587-09340061e21d?q=80&w=1630&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tag": "Healthy"
+  },
+  {
+    "id": 12,
+    "name": "Lobster Mac & Cheese",
+    "description": "A rich blend of gruyère and sharp cheddar baked with tender chunks of fresh lobster.",
+    "price": 16.00,
+    "category": "Sides",
+    "imageUrl": "https://images.unsplash.com/photo-1615761136599-86165bdf1a83?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tag": "Popular"
+  },
+  {
+    "id": 13,
+    "name": "Roasted Garlic Mashed Potatoes",
+    "description": "Creamy Yukon gold potatoes whipped with roasted garlic and rich European butter.",
+    "price": 8.00,
+    "category": "Sides",
+    "imageUrl": "https://images.unsplash.com/photo-1707616954324-99c89a78a20d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tag": ""
+  },
+  {
+    "id": 14,
+    "name": "Artisan Elderflower Spritz",
+    "description": "A vibrant, non-alcoholic spritz made with elderflower syrup, sparkling water, and fresh mint.",
+    "price": 9.00,
+    "category": "Beverages",
+    "imageUrl": "https://images.unsplash.com/photo-1658654938650-09e284473014?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tag": "Mocktail"
+  },
+  {
+    "id": 15,
+    "name": "Cold Brew Hibiscus Tea",
+    "description": "Slow-steeped hibiscus petals mixed with a touch of agave and served over crushed ice.",
+    "price": 5.50,
+    "category": "Beverages",
+    "imageUrl": "https://images.unsplash.com/photo-1563636680-28d36aeb83a4?q=80&w=1456&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tag": "Refreshing"
+  },
+  {
+    "id": 16,
+    "name": "Nitro Espresso Martini",
+    "description": "A smooth, nitrogen-infused blend of cold brew espresso, vodka, and coffee liqueur.",
+    "price": 14.00,
+    "category": "Beverages",
+    "imageUrl": "https://images.unsplash.com/photo-1648487727832-5ba6e81c7e8e?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tag": "Signature"
+  },
+  {
+    "id": 17,
+    "name": "Matcha Crème Brûlée",
+    "description": "A twist on the classic with ceremonial grade matcha custard and a caramelized sugar shell.",
+    "price": 11.00,
+    "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1575301543995-26dd932c3016?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tag": "Featured"
+  },
+  {
+    "id": 18,
+    "name": "Vegan Berry Tart",
+    "description": "A crisp almond crust filled with vanilla coconut cream and topped with fresh seasonal berries.",
+    "price": 10.00,
+    "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1550555016-890d98b718c9?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tag": "Vegan"
+  },
+  {
+    "id": 19,
+    "name": "Tiramisu Layer Cake",
+    "description": "Layers of espresso-soaked sponge cake, mascarpone cream, and dusted with rich cocoa powder.",
+    "price": 13.00,
+    "category": "Desserts",
+    "imageUrl": "https://images.unsplash.com/photo-1605138693981-6c8a5ea87796?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tag": ""
   }
 ]

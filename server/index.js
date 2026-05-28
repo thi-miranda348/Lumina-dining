@@ -13,7 +13,7 @@ app.use(express.json()); // Allow the server to read JSON payloads (needed for c
 const menuData = require('./data/menu.json');
 const userData = require('./data/user.json');
 
-app.get('/api/menu', (req, rea) => {
+app.get('/api/menu', (req, res) => {
     res.json(menuData);
 })
 app.get('/api/user', (req, res) => {
