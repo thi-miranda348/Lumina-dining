@@ -1,0 +1,12 @@
+{
+  "userId": "USR-84920",
+  "name": "Alexander",
+  "email": "alexander@example.com",
+  "joinDate": "2023-11-15T08:00:00Z",
+  "loyalty": {
+    "currentPoints": 345,
+    "tier": "Silver Tier",
+    "pointsToNextTier": 155,
+    "lifetimePoints": 1250
+  }
+}

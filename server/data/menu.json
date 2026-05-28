@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Signature Truffle Burger",
+    "description": "A double-aged Wagyu patty topped with house-made black truffle aioli, shaved black truffles, and caramelized onions on a toasted brioche bun.",
+    "price": 24.00,
+    "category": "Entrees",
+    "imageUrl": "/images/truffle-burger.jpg",
+    "tag": "Featured"
+  },
+  {
+    "id": 2,
+    "name": "Miso Glazed Salmon",
+    "description": "Wild-caught Atlantic salmon with a honey-miso glaze, served over charred broccolini.",
+    "price": 28.00,
+    "category": "Entrees",
+    "imageUrl": "/images/miso-salmon.jpg",
+    "tag": "Healthy"
+  },
+  {
+    "id": 3,
+    "name": "Honey Smoked Ribs",
+    "description": "Slow-cooked for 12 hours with a signature hickory spice rub and a sweet honey BBQ glaze.",
+    "price": 32.00,
+    "category": "Entrees",
+    "imageUrl": "/images/smoked-ribs.jpg",
+    "tag": ""
+  },
+  {
+    "id": 4,
+    "name": "Basil Pesto Penne",
+    "description": "Hand-made penne tossed in fresh basil pesto, toasted pine nuts, and 24-month aged parmesan.",
+    "price": 19.00,
+    "category": "Entrees",
+    "imageUrl": "/images/pesto-penne.jpg",
+    "tag": "Vegetarian"
+  },
+  {
+    "id": 5,
+    "name": "Crispy Parmesan Fries",
+    "description": "Triple-cooked and tossed in aged parmesan and white truffle oil.",
+    "price": 8.00,
+    "category": "Sides",
+    "imageUrl": "/images/parmesan-fries.jpg",
+    "tag": "Popular"
+  },
+  {
+    "id": 6,
+    "name": "Yuzu Matcha Lemonade",
+    "description": "A refreshing, sparkling blend of premium Japanese matcha and cold-pressed yuzu juice.",
+    "price": 6.50,
+    "category": "Beverages",
+    "imageUrl": "/images/yuzu-matcha.jpg",
+    "tag": ""
+  },
+  {
+    "id": 7,
+    "name": "Dark Chocolate Lava Cake",
+    "description": "Warm molten center crafted with 70% dark cacao, served alongside Madagascar vanilla bean gelato.",
+    "price": 12.00,
+    "category": "Desserts",
+    "imageUrl": "/images/lava-cake.jpg",
+    "tag": "Gluten-Free"
+  }
+]
